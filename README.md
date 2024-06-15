@@ -12,6 +12,7 @@ O objetivo deste projeto é demonstrar como extrair informações básicas de pr
 - Bibliotecas:
   - requests
   - BeautifulSoup (bs4)
+  - Scrapy
 
 ## Instalação
 
